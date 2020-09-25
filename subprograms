@@ -1,0 +1,12 @@
+def testThis():
+  print("help!!!")
+
+testThis()
+
+number1=int(input("Enter a number: "))
+number2=int(input("Enter another number: "))
+
+def multiply(num1, num2):
+  total = num1*num2
+  print(total)
+multiply(number1,number2)
