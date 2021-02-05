@@ -8,7 +8,7 @@ while number > 0:
         number=number-1
         print("there'll be",number,"green bottles hanging on the wall")
     else:
-        ask=int(input("no try again"))
+        tryagain=input("no try again (press any key)")
 if ask != 0:
     print("no try again")
 else:
