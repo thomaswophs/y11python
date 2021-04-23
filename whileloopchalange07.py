@@ -13,4 +13,4 @@ if ask != 0:
     print("no try again")
 else:
     print("there'll be 0 green bottles hanging on the wall")
-
+# made by thomas while loop challange 07
