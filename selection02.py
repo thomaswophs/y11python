@@ -3,4 +3,4 @@ if num > 20:
     print("too high")
 else:
     print("thank you")
-# made by thomas selection
+# made by thomas selection 02
