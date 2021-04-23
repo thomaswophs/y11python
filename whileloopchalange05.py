@@ -9,3 +9,4 @@ while num != compnum:
     num=int(input("new number"))
     count=count+1
 print("congrats it only took",count,"atempts")
+# made by thomas while loop challange 05
