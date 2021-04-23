@@ -7,3 +7,4 @@ elif num == 3:
     print("amazing you're so good at this")
 else:
     print("what is wrong with you")
+# made by thomas selection 08
