@@ -6,3 +6,4 @@ while answer == "y":
     total=num1+num2
     answer=input("do you want to add another number").lower()
 print("your total is",total,"")
+# made by thomas while loop challange 03
