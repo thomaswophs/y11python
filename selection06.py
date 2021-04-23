@@ -7,3 +7,4 @@ elif age == 16:
     print("you can buy a lottery ticcket")
 else:
     print("you can trick or treat")
+# made by thomas selection 06
