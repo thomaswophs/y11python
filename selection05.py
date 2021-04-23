@@ -7,3 +7,4 @@ if rain == "yes":
         print("take an umbrella")
 else:
     print("enjoy the sun")
+# made by thomas selection 05
