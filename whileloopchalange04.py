@@ -6,3 +6,4 @@ while invite == "y".lower():
     count=count+1
     invite=input("invite another sentient").lower()
 print("there are",count,"people here")
+# made by thomas while loop challange 04
