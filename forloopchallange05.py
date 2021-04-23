@@ -4,3 +4,4 @@ if num >=1 and num <=12:
         print(i)
 else:
     print("not between 1 and 12")
+# made by thomas for loop challange 05
