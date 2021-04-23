@@ -5,3 +5,4 @@ if num < 50:
     print("number was",num)
 else:
     print("not below 50 ")
+# made by thomas for loop challange 06
